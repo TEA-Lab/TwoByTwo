@@ -91,7 +91,7 @@ We would appreciate it if you find this work useful and consider citing it.
 @article{qi2025two,
   title={Two by two: Learning multi-task pairwise objects assembly for generalizable robot manipulation},
   author={Qi, Yu and Ju, Yuanchen and Wei, Tianming and Chu, Chi and Wong, Lawson LS and Xu, Huazhe},
-  journal={arXiv preprint arXiv:2504.06961},
+  journal={CVPR 2025},
   year={2025}
 }
 ```
