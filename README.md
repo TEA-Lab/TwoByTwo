@@ -17,10 +17,9 @@
 
 **CVPR, 2025**
 
+
 <div align="center">
-  <video width="100%" controls>
-    <source src="assets/general.mp4" type="video/mp4">
-  </video>
+  <img src="assets/teaser.png" alt="2by2" width="100%">
 </div>
 
 
