@@ -52,7 +52,7 @@ It is recommended to use our pre-generated point cloud. In the meantime, you can
 
 ## 🐰Training and Inference
 
-In `NSM/config` modify the path of `log_dir` `data root_dir`. We support Distributed Data Parallel Training.
+In `src/config` modify the path of `log_dir` `data root_dir`. We support Distributed Data Parallel Training.
 
 
 - Train Network B
