@@ -33,7 +33,7 @@ This project is tested on Ubuntu 22.04 with CUDA 11.8.
 ```python
 git clone git@github.com:TEA-Lab/TwoByTwo.git
 conda env create -f environment.yml
-conda activate 2by2
+conda activate twobytwo
 ```
 
 - (Optional) If you would like to calculate Chamfer Distance, clone the [CUDA-accelerated Chamfer Distance library](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch/tree/master):
