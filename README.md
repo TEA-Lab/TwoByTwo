@@ -4,7 +4,7 @@
   |
   <a href="https://arxiv.org/abs/2504.06961"><strong>arXiv</strong></a>
   |
-  <a href=""><strong>Twitter</strong></a> 
+  <a href="https://x.com/ju_yuanchen/status/1914692567062478951"><strong>Twitter</strong></a> 
   | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhPcAdky8ZojjPlSSHN4ubYqc7WHIwfiqFW2L5YpqAHbbVgg/viewform"><strong>Dataset</strong></a>
 
   <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=UZSbtlsAAAAJ">Yu Qi*</a>, 
