@@ -87,10 +87,11 @@ For inquiries about this project, please reach out to **Yu Qi: qi.yu2@northeaste
 
 We would appreciate it if you find this work useful and consider citing it.
 ```
-@article{qi2025two,
+@inproceedings{qi2025two,
   title={Two by two: Learning multi-task pairwise objects assembly for generalizable robot manipulation},
   author={Qi, Yu and Ju, Yuanchen and Wei, Tianming and Chu, Chi and Wong, Lawson LS and Xu, Huazhe},
-  journal={CVPR 2025},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={17383--17393},
   year={2025}
 }
 ```
