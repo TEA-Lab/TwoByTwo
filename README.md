@@ -47,7 +47,7 @@ git clone https://github.com/ThibaultGROUEIX/ChamferDistancePytorch.git
 
 2BY2 Dataset has been released. To obtain our dataset, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfhPcAdky8ZojjPlSSHN4ubYqc7WHIwfiqFW2L5YpqAHbbVgg/viewform?usp=sharing).
 
-[News] Sep-29-2025: We have fixed some mis-match problems in the dataset and update the new mesh in the original link.
+[News] 🆕Sep-29-2025: We have fixed some mis-match problems in the dataset and update the new mesh in the original link.
 
 ## 🍰 Dataset Utility Support
 It is recommended to use our pre-generated point cloud. In the meantime, you can also generate your own point cloud, add your own data, or generate **URDF(Unified Robot Description Format)** file for robot simulation purpose, please see `data_util` folder for more detailed instructions.
