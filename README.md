@@ -47,6 +47,8 @@ git clone https://github.com/ThibaultGROUEIX/ChamferDistancePytorch.git
 
 2BY2 Dataset has been released. To obtain our dataset, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfhPcAdky8ZojjPlSSHN4ubYqc7WHIwfiqFW2L5YpqAHbbVgg/viewform?usp=sharing).
 
+[GDRIVE link to the data](https://drive.google.com/drive/folders/1uUeIr9MihRXn_C9eGKt9Ah7ycdm2TniA?usp=sharing)
+
 [News] 🆕Sep-29-2025: We have fixed some mis-match problems in the dataset and update the new mesh in the original link.
 
 ## 🍰 Dataset Utility Support
